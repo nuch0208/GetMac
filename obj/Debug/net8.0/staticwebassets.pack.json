@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GetMac\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GetMac.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GetMac.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GetMac\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\GetMac\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GetMac\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GetMac\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GetMac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GetMac.props",
+      "PackagePath": "build\\GetMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GetMac.props",
+      "PackagePath": "buildMultiTargeting\\GetMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GetMac.props",
+      "PackagePath": "buildTransitive\\GetMac.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

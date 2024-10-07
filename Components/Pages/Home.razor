@@ -1,0 +1,28 @@
+﻿@page "/"
+@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Net.NetworkInformation;
+@using System.Text;
+@using System.Threading.Tasks;
+@using GetMac.Service;
+@inject MacAddress MacAddress;
+
+<PageTitle>Home</PageTitle>
+
+
+    <p>MacAddress ของคุณคือ @MacAddressNo</p>
+
+
+
+@code {
+
+      public string MacAddressNo;
+      
+
+      protected override void OnInitialized()
+      {
+        MacAddressNo = MacAddress.GetMACAddress();
+      }
+
+}
